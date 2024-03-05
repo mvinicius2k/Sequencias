@@ -1,0 +1,2 @@
+﻿Fibonacci.Execute();
+Inverse.Execute();
